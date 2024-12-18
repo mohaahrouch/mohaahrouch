@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning JAVA,C,C++
 - 📫 How to reach me : mohaahrouch01@gmail.com
-- 😄 Pronouns: MohaDp
+- 😄 Pronouns: Moha_Coder , 13
 - ⚡ Fun fact: i do things fast ( not every thing : ) )
 
 <!---
